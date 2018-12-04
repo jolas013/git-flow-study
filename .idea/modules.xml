@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GitFlow.iml" filepath="$PROJECT_DIR$/GitFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-flow-study.iml" filepath="$PROJECT_DIR$/git-flow-study.iml" />
     </modules>
   </component>
 </project>
